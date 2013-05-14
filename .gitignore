@@ -1,0 +1,10 @@
+
+bin
+obj
+Debug
+TestResults
+*.opensdf
+*.sdf
+*.suo
+*.vcxproj.usr
+ipch
