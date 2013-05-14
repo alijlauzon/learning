@@ -10,8 +10,15 @@ using namespace std;
 
 int main()
 {
+	int x = 10, y = 3;
+	int temp = (x + y);
+
+	cout << "equation: " << x << " + " << y << " = ";
+	cout << temp << endl;
+
 	cout << "This is a test. Press 'Y' to exit" << endl;
 	cout << "The character was: " << endl;
+	
 	int character;
 
 	do{
